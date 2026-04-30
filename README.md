@@ -17,7 +17,7 @@
 - 1 3/4 cups pastry flour
 
 
-![Cookbook Cover](/images/calendar_cookbook_cover.png)
+![Cookbook Cover](/images/calendar_cookbook_cover.jpg)
 
 ### Instructions
 Cream butter and sugar, add eggs, yolks
