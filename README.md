@@ -16,6 +16,9 @@
 - The grated rind of one orange
 - 1 3/4 cups pastry flour
 
+
+![Cookbook Cover](/images/calendar_cookbook_cover.png)
+
 ### Instructions
 Cream butter and sugar, add eggs, yolks
 and whites beaten together, then dates, orange rind and
