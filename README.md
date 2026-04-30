@@ -2,7 +2,7 @@
 ## Orange and Date Cake
 
 
-![Date cake wtih tea](/images/oranges_date_cake.png)
+![Date cake with tea](/images/orange_date_cake.png)
 
 
 ### Ingredients
